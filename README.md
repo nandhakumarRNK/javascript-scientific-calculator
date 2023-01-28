@@ -4,4 +4,5 @@
 - Simple SCIENTIFIC CALCULATOR Design Using HTML CSS & JavaScript
 
 ### screenshot
-![screenShot](https://user-images.githubusercontent.com/121867811/215095147-bc3a76b8-59c5-4353-8e97-9cb003e9bc8d.png)
+![screenShot1](https://user-images.githubusercontent.com/121867811/215252997-0c758c72-4f23-4474-b5b1-64df650c9e14.png)
+
